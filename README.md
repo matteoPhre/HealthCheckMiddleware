@@ -31,3 +31,7 @@ module.exports = app;
 //3.    jsonMessage -> defined as a json object (next implementation will provide XML and HTML response)
 //                  default is {message : "OK"}
 ```
+
+##	ToDos
+
+The next implementation allows you to customize the response in different formats.
