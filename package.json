@@ -1,0 +1,19 @@
+{
+  "name": "healthcheckmiddleware",
+  "version": "1.0.0",
+  "description": "Express middleware for HealthCheck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteoPhre/HealthCheckMiddleware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteoPhre/HealthCheckMiddleware/issues"
+  },
+  "homepage": "https://github.com/matteoPhre/HealthCheckMiddleware#readme"
+}
